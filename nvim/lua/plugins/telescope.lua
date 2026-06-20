@@ -1,5 +1,5 @@
 return {
-  "nvim-telescope/telescope.nvim", tag = "0.1.8",
+  "nvim-telescope/telescope.nvim",
   dependencies = {
     {
       "isak102/telescope-git-file-history.nvim",
